@@ -1,0 +1,8 @@
+requests==2.23
+grequests==0.6
+pytz==2020.1
+matplotlib==3.3.0
+
+
+
+
